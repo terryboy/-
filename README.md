@@ -1,1 +1,1 @@
-# -
+# typescript。solidity
